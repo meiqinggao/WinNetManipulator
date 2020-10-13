@@ -1,5 +1,7 @@
 ## WinNetManipulator - A Java-Based Network Hacking Tool for Geek on Windows Platform
 
+[中文](https://github.com/meiqinggao/WinNetManipulator/blob/master/Readme-zh.md)
+
 This tool empowers you to sniff the network info, manipulate the payload data as you want, and send to your desired destination. This project is built on Open Source Project: WinDivert, which enables you to intercept the network payload before sending out.
 
 I wrap this C++ dll with SpringBoot, also I have been put some fake demo usage code in WinNetApplication.java. 
